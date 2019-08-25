@@ -4,6 +4,7 @@
 
 On the campground of the CCCamp, someone is trying to troll us by encrypting our flags. Sadly, we only got the memory dump of the PC which encrypted our flags.
 Please provide us with the flag which is not yet encrypted.
+
 *flagconverter.7z*
 
 ### Solution:
