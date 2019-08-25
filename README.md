@@ -24,7 +24,7 @@ That is some ancient stuff! Could you translate that for us?
 
 ![ancient_data.png](files/ancient_data.png)
 
-Put your translated text in the following format, to submit the Flag: ALLES{"<"translated text">"}
+Put your translated text in the following format, to submit the Flag: ALLES{'<'translated text">"}
 
 ### Solution:
 
