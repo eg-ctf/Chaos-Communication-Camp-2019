@@ -10,7 +10,7 @@ Please provide us with the flag which is not yet encrypted.
 ### Solution:
 
 The attached archive contains a huge memory dump *flagconverter.dmp* (1.1Gb).
-The first thing I did was to run the following command implying that the flag has the format of ALLES{...}:
+The easiest thing to do is to run the following command implying that the flag has the format of ALLES{...}:
 
 ```$ strings flagconverter.dmp | grep ALLES```
 
@@ -34,6 +34,7 @@ After 10 minutes of searching I found that those symbols are from Proto-Sinaitic
 ![protosinaitic.png](files/protosinaitic.png)
 
 Recovered text: ```alphabetevolution```
+
 And the flag is: ```ALLES{alphabetevolution}```
 
 
